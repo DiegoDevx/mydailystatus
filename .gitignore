@@ -1,0 +1,5 @@
+.now
+firebase-secret.json
+now.json
+.env
+node_modules
